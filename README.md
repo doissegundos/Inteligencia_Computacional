@@ -18,24 +18,24 @@ Usando o conjunto de dados do aerogerador - variável de entrada (primeira colun
 
 Dada a base de dados:
 
-<img src="imagens/regressaomultipla.png"  width="400"/>
+<img src="imagens/regressaomultipla.png"  width="200"/>
 
 Na qual a primeira e segunda colunas são as variáveis regressoras (x1 e x2) e a terceira coluna é a variável dependente (y), é determinado o modelo de regressão múltipla (plano) com parâmetros estimados pelo método dos mínimos quadrados. Avaliando a qualidade do modelo pela métrica R2.
 
 ### Neurônio Perceptron
 O Perceptron é uma rede que recebe vários valores de entrada e apenas uma única saída. É uma rede bem simples, com apenas uma camada, sendo muito utilizada para demonstrar como funcionam neurônios simples. Este projeto implementa um neurônio Perceptron com valores de pesos inicialmente aleatórios que resolvem o problema do AND com duas variáveis.
 
-<img src="imagens/perceptron.png"  width="400"/>
+<img src="imagens/perceptron.png" />
 
 ### Rede RBF
 A rede RBF é mais complexa, possuindo duas camadas de neurônios, onde os neurônios da primeira camada utilizam funções de ativação não lineares e os neurônios da segunda camada utilizam funções de ativação lineares. Este trabalho implementa uma rede RBF para criar uma curva que se ajusta ao conjunto de dados do aerogerador.
 
-<img src="imagens/RBF.png"  width="400"/>
+<img src="imagens/RBF.png"  />
 
 ### Rede Neural RLM
 A ELM, Máquina de Aprendizado Extremo são redes neurais avançadas que podem ser utilizada para muitos fins, entre eles o de classificação e regressão. Utilizando o conjunto de dados 2-D disponível no arquivo “two_classes.dat” foi plotado o gráfico de dispersão usando cores diferentes para diferenciar entre os dados de uma classe e da outra. Tracando a superfície de decisão obtida com o uso de todas as amostras como treinamento usando a rede neural ELM.  
 
-<img src="imagens/RLM.png"  width="400"/>
+<img src="imagens/RLM.png" />
 
 ### Algoritmos genéticos
 
