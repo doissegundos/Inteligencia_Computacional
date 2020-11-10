@@ -18,7 +18,7 @@ Usando o conjunto de dados do aerogerador - variável de entrada (primeira colun
 
 Dada a base de dados:
 
-<img src="imagens/regressaopmultipla.png"  width="400"/>
+<img src="imagens/regressaomultipla.png"  width="400"/>
 
 Na qual a primeira e segunda colunas são as variáveis regressoras (x1 e x2) e a terceira coluna é a variável dependente (y), é determinado o modelo de regressão múltipla (plano) com parâmetros estimados pelo método dos mínimos quadrados. Avaliando a qualidade do modelo pela métrica R2.
 
@@ -44,7 +44,8 @@ Um algoritmo genético é uma técnica derivada dos algoritmos evolutivos que é
 Este trabalho criou um algoritmo genético para achar o mínimo da função de Rosenbrock f(x, y) = (1 – x) 2 + 100(y – x 2 ) 2 no intervalo x ∊ [-5 5] e y ∊ [-5 5]. Onde cada indivíduo da população é um vetor binário de 20 bits, em que os 10 primeiros representam x e os restantes representam y. 
 
 <p float="left">
-  <img src="imagens/genetico1.png"  width="400"/>
+  
+  <img src="imagens/genetico1.png" width="400"/>
   <img src="imagens/genetico2.png" width="400" />
 </p>
 
