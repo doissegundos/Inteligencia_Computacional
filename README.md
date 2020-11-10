@@ -3,6 +3,7 @@
 Estes projetos foram desenvolvidos ao longo da disciplina de Inteligência Computacional, ministrada na Universidade Federal do Ceará. 
 
 ### Lógica Fuzzy
+[Lógica Fuzzy](https://github.com/doissegundos/Inteligencia_Computacional/tree/main/L%C3%B3gica%20Fuzzy)
 Este projeto utiliza Lógica Fuzzy (inferência de Mamdani) para calcular a pressão do freio utilizando três valores de entrada: pressão no pedal, velocidade da roda e velocidade do carro.
 
 ### Regressão Polinomial
