@@ -25,17 +25,17 @@ Na qual a primeira e segunda colunas são as variáveis regressoras (x1 e x2) e 
 ### Neurônio Perceptron
 O Perceptron é uma rede que recebe vários valores de entrada e apenas uma única saída. É uma rede bem simples, com apenas uma camada, sendo muito utilizada para demonstrar como funcionam neurônios simples. Este projeto implementa um neurônio Perceptron com valores de pesos inicialmente aleatórios que resolvem o problema do AND com duas variáveis.
 
-<img src="imagens/perceptron.png" />
+<img src="imagens/perceptron.png" width="500"/>
 
 ### Rede RBF
 A rede RBF é mais complexa, possuindo duas camadas de neurônios, onde os neurônios da primeira camada utilizam funções de ativação não lineares e os neurônios da segunda camada utilizam funções de ativação lineares. Este trabalho implementa uma rede RBF para criar uma curva que se ajusta ao conjunto de dados do aerogerador.
 
-<img src="imagens/RBF.png"  />
+<img src="imagens/RBF.png" width="500"  />
 
 ### Rede Neural RLM
 A ELM, Máquina de Aprendizado Extremo são redes neurais avançadas que podem ser utilizada para muitos fins, entre eles o de classificação e regressão. Utilizando o conjunto de dados 2-D disponível no arquivo “two_classes.dat” foi plotado o gráfico de dispersão usando cores diferentes para diferenciar entre os dados de uma classe e da outra. Tracando a superfície de decisão obtida com o uso de todas as amostras como treinamento usando a rede neural ELM.  
 
-<img src="imagens/RLM.png" />
+<img src="imagens/RLM.png" width="500"/>
 
 ### Algoritmos genéticos
 
@@ -45,7 +45,7 @@ Este trabalho criou um algoritmo genético para achar o mínimo da função de R
 
 <p float="left">
   
-  <img src="imagens/genetico.png" />
-  <img src="imagens/genetico2.png"  />
+  <img src="imagens/genetico.png" width="400" />
+  <img src="imagens/genetico2.png" width="400" />
 </p>
 
