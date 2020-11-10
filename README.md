@@ -45,7 +45,7 @@ Este trabalho criou um algoritmo genético para achar o mínimo da função de R
 
 <p float="left">
   
-  <img src="imagens/genetico1.png" width="400"/>
-  <img src="imagens/genetico2.png" width="400" />
+  <img src="imagens/genetico1.png" />
+  <img src="imagens/genetico2.png"  />
 </p>
 
