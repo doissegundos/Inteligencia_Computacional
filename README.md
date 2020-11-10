@@ -2,12 +2,11 @@
 
 Estes projetos foram desenvolvidos ao longo da disciplina de Inteligência Computacional, ministrada na Universidade Federal do Ceará. 
 
-### Lógica Fuzzy
 ### [Lógica Fuzzy](https://github.com/doissegundos/Inteligencia_Computacional/tree/main/L%C3%B3gica%20Fuzzy)
 
 Este projeto utiliza Lógica Fuzzy (inferência de Mamdani) para calcular a pressão do freio utilizando três valores de entrada: pressão no pedal, velocidade da roda e velocidade do carro.
 
-### Regressão Polinomial
+### [Regressão Polinomial](https://github.com/doissegundos/Inteligencia_Computacional/tree/main/Regress%C3%A3o%20Polinomial)
 
 Usando o conjunto de dados do aerogerador - variável de entrada (primeira coluna): velocidade do vento; variável de saída (segunda coluna): potência gerada é determinado os modelos de regressão polinomial (graus: 1 até 5) com parâmetros estimados pelo método dos mínimos quadrados.
 
