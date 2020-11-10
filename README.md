@@ -10,8 +10,8 @@ Este projeto utiliza Lógica Fuzzy (inferência de Mamdani) para calcular a pres
 Usando o conjunto de dados do aerogerador - variável de entrada (primeira coluna): velocidade do vento; variável de saída (segunda coluna): potência gerada é determinado os modelos de regressão polinomial (graus: 1 até 5) com parâmetros estimados pelo método dos mínimos quadrados.
 
 <p float="left">
-  <img src="imagens/regressaopolimonial.png"  />
-  <img src="imagens/regressaopolimonial1.png"  />
+  <img src="imagens/regressaopolimonial.png"  width="400"/>
+  <img src="imagens/regressaopolimonial1.png" width="400" />
 </p>
 
 ### Regressão Múltipla
